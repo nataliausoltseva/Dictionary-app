@@ -1,7 +1,12 @@
 .centreText {
-    text-align: center;
-  }
+  text-align: center;
+}
 
-  h1 {
-    font-size: 150px;
+h1 {
+  font-size: 150px;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
 }
