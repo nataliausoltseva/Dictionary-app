@@ -1,4 +1,5 @@
 {
+  "homepage": "http://nataliausoltseva.github.io/Dictionary-app",
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
@@ -50,6 +51,8 @@
     "yargs-parser": "^20.2.4"
   },
   "scripts": {
+    "predeploy":"npm run build",
+    "deploy":"gh-pages -d build",
     "start": "react-scripts-ts start",
     "build": "react-scripts-ts build",
     "test": "react-scripts-ts test --env=jsdom",
@@ -62,6 +65,7 @@
     "@types/react": "^16.4.0",
     "@types/react-dom": "^16.0.5",
     "file-loader": "^2.0.0",
+    "gh-pages": "^3.1.0",
     "typescript": "^2.8.3",
     "url-loader": "^1.1.1"
   }
