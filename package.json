@@ -46,7 +46,7 @@
     "react-spinners": "^0.4.5",
     "react-transition-group": "^2.3.1",
     "serialize-javascript": "^5.0.1",
-    "set-value": "^3.0.2",
+    "set-value": "^4.0.1",
     "sockjs": "^0.3.21",
     "ssri": "^8.0.1",
     "styled-components": "^3.4.5",
