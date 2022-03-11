@@ -37,6 +37,7 @@
     "node-forge": "^1.0.0",
     "node-notifier": "^9.0.1",
     "path-parse": "^1.0.6",
+    "postcss": "^7.0.36",
     "react": "^16.4.0",
     "react-bootstrap": "^0.32.1",
     "react-dev-utils": "^11.0.4",
